@@ -1,2 +1,9 @@
-node_modules/
-.env
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+*.log
+*.tsbuildinfo
